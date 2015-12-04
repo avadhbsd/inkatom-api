@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sizeName: MyString
+  heightInInch: MyString
+  widthInInch: MyString
+  heightInCM: MyString
+  widthInCM: MyString
+  heightInFeet: MyString
+  widthInFeet: MyString
+  meta: MyString
+  poster_id: 
+
+two:
+  sizeName: MyString
+  heightInInch: MyString
+  widthInInch: MyString
+  heightInCM: MyString
+  widthInCM: MyString
+  heightInFeet: MyString
+  widthInFeet: MyString
+  meta: MyString
+  poster_id: 
